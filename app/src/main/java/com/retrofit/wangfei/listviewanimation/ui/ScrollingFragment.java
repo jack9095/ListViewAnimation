@@ -17,7 +17,7 @@ import com.retrofit.wangfei.listviewanimation.base.DatasetBuilder;
  * User: wangfei
  * Date: 2016-03-24
  * Time: 12:26
- * Description:
+ * Description: 显示ListView动画的Fragment
  */
 public class ScrollingFragment extends BaseFragment {
 
